@@ -32,7 +32,7 @@ img {
   color: #6AA80A
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1080px) {
   img {
     height: 125px;
     width: 125px;
