@@ -1,21 +1,27 @@
 h1 {
-  font-family: Poiret One, cursive;
-  border-bottom: solid 2px;
+  font-family: Montserrat, sans-serif;
   background: #6AA80A;
   align-items: center;
+  justify-content: flex-start;
+  align-content: flex-start;
+  border: solid;
+  border-color: #6AA80A;
+  padding: 10px
 }
 
 body {
-  background: #011B5B;
+  background-image: url("https://images.pexels.com/photos/220177/pexels-photo-220177.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
 }
 
 section {
   display: flex;
-  margin-left: 125px;
+  justify-content: space-between;
+  margin-bottom: 10px;
 }
 
-div {
-  color: #6AA80A
+.source {
+  background-color: #6AA80A;
+  color: black
 }
 
 img {
@@ -47,5 +53,6 @@ img {
   }
   section {
     margin-left: 15px;
+    padding: 5px
   }
 }
