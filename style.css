@@ -44,10 +44,10 @@ img {
   }
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 700px) {
   img {
-    height: 45px;
-    width: 40px;
+    height: 65px;
+    width: 60px;
     object-fit: cover;
     border: solid 0.5px
   }
