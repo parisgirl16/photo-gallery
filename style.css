@@ -51,8 +51,8 @@ img {
 
 @media screen and (max-width: 750px) {
   img {
-    height: 105px;
-    width: 100px;
+    height: 115px;
+    width: 110px;
     object-fit: cover;
     border: solid 0.5px
   }
