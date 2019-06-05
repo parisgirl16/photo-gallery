@@ -31,7 +31,7 @@ div {
 
 img {
   height: 225px;
-  width: 225px;
+  width: 220px;
   object-fit: cover;
   border: solid 2px;
   color: #6AA80A
@@ -39,8 +39,8 @@ img {
 
 @media screen and (max-width: 1080px) {
   img {
-    height: 125px;
-    width: 125px;
+    height: 150px;
+    width: 145px;
     object-fit: cover;
     border: solid 1px
   }
@@ -51,8 +51,8 @@ img {
 
 @media screen and (max-width: 750px) {
   img {
-    height: 85px;
-    width: 80px;
+    height: 105px;
+    width: 100px;
     object-fit: cover;
     border: solid 0.5px
   }
