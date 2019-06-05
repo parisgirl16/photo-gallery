@@ -19,6 +19,10 @@ section {
   margin-bottom: 10px;
 }
 
+div {
+  padding: 5px;
+}
+
 .source {
   background-color: #6AA80A;
   color: black
